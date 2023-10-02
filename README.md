@@ -1,4 +1,4 @@
-To make a JavaScript file executable as a global command in the Terminal on Linux/macOS, you can follow these steps:
+# To make a JavaScript file executable as a global command in the Terminal on Linux/macOS, you can follow these steps:
 
 
 1. Make the file executable:
@@ -32,7 +32,7 @@ Remember that you need appropriate permissions to create symlinks in system dire
 
 
 
-An example of the directory structure before and after merging two PDF files:
+# An example of the directory structure before and after merging two PDF files:
 
 **Before Merge (Directory Structure):**
 
